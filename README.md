@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/DejanSheki/nft-preview-card-component
+- Live Site URL: https://dejansheki.github.io/nft-preview-card-component/
 
 ### Built with
 
@@ -26,6 +26,6 @@ Users should be able to:
 
 ## Author
 
-- Website -(https://dejanlukic.com)
+- Website -https://dejanlukic.com
 - Frontend Mentor - https://www.frontendmentor.io/profile/DejanSheki
 - Twitter - https://twitter.com/DejanWebDev
