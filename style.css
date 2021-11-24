@@ -63,14 +63,14 @@ body {
   opacity: 1;
 }
 
-.card h2 {
+.card h1 {
   color: var(--white);
   margin-block: 20px;
   font-size: 20px;
   font-weight: 400;
   cursor: pointer;
 }
-.card h2:hover {
+.card h1:hover {
   color: var(--cyan);
 }
 .card p {
